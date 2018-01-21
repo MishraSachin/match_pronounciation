@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestMediaPlayer</string>
+
+    <!-- MainActivity -->
+    <string name="lesson_one">Lesson One</string>
+    <string name="lesson_two">Lesson two</string>
+    <string name="lesson_three">Lesson three</string>
+</resources>
